@@ -1,2 +1,3 @@
 app/.eslintcache
 cdk/.env
+node_modules/*
